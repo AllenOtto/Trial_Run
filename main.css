@@ -11,8 +11,8 @@ body {
 	background-blend-mode: darken;
 	background-size: cover;
 	background-position: center center;
-	height: 100vh;
 	color: #fff;
+	height: 100vh;
 }
 .container {
 	width: 80%;
@@ -31,6 +31,11 @@ body {
 }
 .message {
 	font-weight: 700;
+}
+.paras {
+	border: 3px solid white;
+	border-radius: .5em;
+	padding: 1em;
 }
 .snapshot img {
 	display: block;
