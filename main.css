@@ -29,6 +29,9 @@ body {
 .message > * {
 	margin: 0.5em 0.5em 0.5em 1em;
 }
+.message {
+	font-weight: 700;
+}
 .snapshot img {
 	display: block;
 	margin: 1em;
