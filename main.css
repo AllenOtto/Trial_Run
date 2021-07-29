@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+	font-size: 1.1em;
+}
+body {
+	background-image: url(img/bathroom_floor.jpg);
+	background-color: red;
+	background-blend-mode: darken;
+	background-size: cover;
+	background-position: center center;
+	height: 100vh;
+	color: #fff;
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	background-position: center center;
+	height: 100vh;
+}
+.align-center {
+	text-align: center;
+}
+.message > * {
+	margin: 0.5em 0 0 1em;
+}
+.snapshot img {
+	display: block;
+	margin: 1em;
+	border-radius: 4px;
+}
