@@ -4,7 +4,7 @@
 
 Basic About Page
 
-A basic web page to commit as I of learn to use Git with GitHub
+A basic web page to commit as I learn to use Git with GitHub
 
 ## Contributors
 
