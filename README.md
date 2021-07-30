@@ -6,7 +6,7 @@ Basic About Page
 
 A basic web page to commit as I learn to use Git with GitHub
 
-## Contributors
+## Contributor
 
 - Allen Ototo <hey@allenototo.ke>
 
