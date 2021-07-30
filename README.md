@@ -1,6 +1,6 @@
 # First commit "Trial_Run".
 
-**Version 1.0.0**
+**Version 1.0**
 
 Basic About Page
 
