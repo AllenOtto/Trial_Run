@@ -8,7 +8,7 @@ A basic web page to commit as I learn to use Git with GitHub
 
 ## Contributors
 
-- Allen Ototo <hey@allenotto.ke>
+- Allen Ototo <hey@allenototo.ke>
 
 ---
 
