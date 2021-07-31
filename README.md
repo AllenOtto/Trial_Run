@@ -1,8 +1,8 @@
-# First commit "Trial_Run".
+# First commit "Basic About Page".
 
 **Version 1.0**
 
-Basic About Page
+Basic About Page Frontend Design
 
 A basic web page to commit as I learn to use Git with GitHub
 
